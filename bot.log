@@ -1,0 +1,8 @@
+2026-05-01 12:59:11,949 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-05-01 12:59:12,201 - ERROR - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 22:41:27,879 - INFO - Placing order: BTCUSDT BUY LIMIT
+2026-05-01 22:41:28,263 - ERROR - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-05-01 22:43:37,236 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-05-01 22:43:37,584 - INFO - Real Response: {'symbol': 'BTCUSDT', 'orderId': 11661838, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ18448a1143f87b328b2d8c', 'transactTime': 1777655617541, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '78.27390000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1777655617541, 'fills': [{'price': '78273.90000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 2969570}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2026-05-01 22:46:04,982 - INFO - Placing order: BTCUSDT SELL LIMIT
+2026-05-01 22:46:05,117 - INFO - Real Response: {'symbol': 'BTCUSDT', 'orderId': 11662664, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJfc6a1ef37ad1aebb05e0a7', 'transactTime': 1777655765074, 'price': '60000.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '78.33888000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'SELL', 'workingTime': 1777655765074, 'fills': [{'price': '78338.88000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 2969804}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
