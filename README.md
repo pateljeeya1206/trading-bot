@@ -1,0 +1,1 @@
+Due to access limitations with Binance Futures Testnet, the implementation uses Binance Spot Testnet to demonstrate order execution. The architecture and logic remain directly applicable to Futures APIs.
